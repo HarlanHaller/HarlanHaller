@@ -1,7 +1,7 @@
 ## Hi there 👋
 #### 🌱 I’m currently learning *\~how to act like a human\~*
 ---
-#### 📜 [My Project portfolio](https://github.com/Mr-Waffles/My-Portfolio)
+#### 📜 [My Project portfolio](https://Mr-Waffles.github.io/My-Portfolio)
 📫 How to reach me: __don't__
 
 <!--
