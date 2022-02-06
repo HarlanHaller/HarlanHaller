@@ -1,5 +1,5 @@
 ## Hi there 👋
-#### 🌱 I’m currently learning ~*how to act like a human*~
+#### 🌱 I’m currently learning *\~how to act like a human]\~*
 
 <!--
 **Mr-Waffles/Mr-Waffles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
