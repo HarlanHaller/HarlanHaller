@@ -4,6 +4,10 @@
 #### 📜 [My Project portfolio](https://Mr-Waffles.github.io/My-Portfolio)
 📫 How to reach me: __don't__
 
+---
+I’m currently working on 
+- coding in Desmos ***(simulating a computer?)***
+
 <!--
 **Mr-Waffles/Mr-Waffles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
