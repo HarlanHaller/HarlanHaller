@@ -1,5 +1,6 @@
 ## Hi there 👋
 #### 🌱 I’m currently learning *\~how to act like a human\~*
+#### 🔭 [My Project portfolio](https://github.com/Mr-Waffles/My-Portfolio)
 
 <!--
 **Mr-Waffles/Mr-Waffles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
