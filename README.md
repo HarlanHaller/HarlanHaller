@@ -1,12 +1,12 @@
 ## Hi there 👋
-#### 🌱 I’m currently learning *\~how to act like a human\~*
+#### 🌱 I’m currently learning *\~nothing?\~*
 ---
 #### 📜 [My Project portfolio](https://Mr-Waffles.github.io/My-Portfolio)
 📫 How to reach me: __don't__
 
 ---
 ### I’m currently working on 
-- coding in Desmos ***(simulating a computer?)***
+- FRC Programing ***(swerve drive, java)***
 
 <!--
 **Mr-Waffles/Mr-Waffles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
