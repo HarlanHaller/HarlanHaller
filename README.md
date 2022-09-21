@@ -1,7 +1,7 @@
 ## Hi there 👋
 #### 🌱 I’m currently learning *\~nothing?\~*
 ---
-#### 📜 [My Project portfolio](https://Mr-Waffles.github.io/My-Portfolio)
+
 📫 How to reach me: __don't__
 
 ---
