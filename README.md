@@ -1,4 +1,5 @@
 ## Hi there 👋
+<!--
 #### 🌱 I’m currently learning *\~nothing?\~*
 ---
 
@@ -7,7 +8,7 @@
 ---
 ### I’m currently working on 
 - FRC Programing ***(swerve drive, java)***
-
+-->
 <!--
 **Mr-Waffles/Mr-Waffles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
